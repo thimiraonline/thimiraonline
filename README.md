@@ -35,6 +35,11 @@ Here are some ideas to get you started:
   
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thimiraonline) -->
 
+## 👥 Connect With Me
+<p>
+<a href="https://www.instagram.com/thimiraonline"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=thimiraonline"><p>
@@ -46,3 +51,10 @@ Here are some ideas to get you started:
 <p><img src="https://metrics.lecoq.io/Patalin"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline"><p>
+
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=thimiraonline">
+</p>
+

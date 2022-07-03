@@ -1,3 +1,5 @@
+<p><img src="https://visitcount.itsvg.in/api?id=thimiraonline&label=Profile%20Views&color=12&icon=5&pretty=true"></p>
+
 <h1 align="center">Hi 👋, I'm Thimira Madhusanka Thenuwara</h1>
 
 - 🔭 I’m currently working on Android වැඩකාරයෝ
@@ -33,3 +35,15 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thimiraonline) -->
+
+## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=thimiraonline"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=thimiraonline&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/Patalin"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline"><p>

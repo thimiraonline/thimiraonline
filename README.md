@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.instagram.com/thimiraonline"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+<p align="left"> <a href="https://twitter.com/thimiraonline" target="blank"><img src="https://img.shields.io/twitter/follow/thimiraonline?logo=twitter&style=for-the-badge" alt="maleeshah" /></a> </p>
 
 ## 📊 Github Status
 

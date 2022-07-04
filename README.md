@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/Patalin"><p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline"><p>
 
 

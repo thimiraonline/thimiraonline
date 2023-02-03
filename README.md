@@ -12,9 +12,9 @@
 
 <p align="center"> 
   <a href="https://github.com/thimiraonline?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/dilumdesilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/thimiraonline?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/thimiraonline?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dilumdesilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thimiraonline?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <!-- ![thimiraonline](https://github-readme-stats.vercel.app/api?username=thimiraonline&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)

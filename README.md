@@ -15,6 +15,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/thimiraonline?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/thimiraonline?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thimiraonline?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=thimiraonline&label=Profile%20Views&color=12&icon=5&pretty=true">
 </p>
 
 <p align="center">

@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left"> <a href="https://twitter.com/thimiraonline" target="blank"><img src="https://img.shields.io/twitter/follow/thimiraonline?logo=twitter&style=for-the-badge" alt="maleeshah" /></a> </p> -->
 
-<!-- ## 📊 Github Status
+## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=thimiraonline"><p>
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&layout=compact"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline"><p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline"><p>
 
 <!-- 
 ## 🏆 GitHub Trophies

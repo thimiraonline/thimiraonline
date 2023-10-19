@@ -28,12 +28,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thimiraonline?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-![thimiraonline](https://github-readme-stats.vercel.app/api?username=thimiraonline&show_icons=true&theme=algolia)
-![thimiraonline](https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&layout=compact&langs_count=6&theme=algolia)
-
-
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)

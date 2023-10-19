@@ -79,19 +79,36 @@ Here are some ideas to get you started:
 </p>
 <p align="left"> <a href="https://twitter.com/thimiraonline" target="blank"><img src="https://img.shields.io/twitter/follow/thimiraonline?logo=twitter&style=for-the-badge" alt="maleeshah" /></a> </p> -->
 
-## 📊 Github Status
+### Projects and Dev Stuffs:
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=thimiraonline"><p>
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=thimiraonline&show_icons=true"><p>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thimiraonline&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&layout=compact"><p>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline"><p>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thimiraonline&hide_border=true" />
+</details>
 
-<!-- 
-## 🏆 GitHub Trophies
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
+	    <li><b>Laptop: </b> MacBook Pro M1</li>
+  	    <li><b>Browser: </b> Chrome & Safari</li>
+	    <li><b>Terminal: </b> ZSH: pwsh</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Dashlane and WebStorm</li>
+	    <li><b>To Stay Updated:</b> Facebook, Twitter, Product Hunt, The Verge and 9to5mac</li>
+	</ul>
+</details>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=thimiraonline">
-</p> -->
+#
 

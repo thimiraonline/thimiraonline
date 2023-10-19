@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)
 ![](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![](https://img.shields.io/badge/Caddy-1F88C0.svg?style=for-the-badge&logo=Caddy&logoColor=white)
-
+![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
@@ -110,22 +110,29 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black)
 ![](https://img.shields.io/badge/Termius-000000.svg?style=for-the-badge&logo=Termius&logoColor=white)
 ![](https://img.shields.io/badge/Dashlane-0E353D.svg?style=for-the-badge&logo=Dashlane&logoColor=white)
-
 ![](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white)
 ![](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)
-
 ![](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
-
+![](https://img.shields.io/badge/Algolia-003DFF.svg?style=for-the-badge&logo=Algolia&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/Let's%20Encrypt-003A70.svg?style=for-the-badge&logo=Let's-Encrypt&logoColor=white)
 ![](https://img.shields.io/badge/Ghost-15171A.svg?style=for-the-badge&logo=Ghost&logoColor=white)
 ![](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
+![](https://img.shields.io/badge/Magento-EE672F.svg?style=for-the-badge&logo=Magento&logoColor=white)
 ![](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![](https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
+![](https://img.shields.io/badge/Logitech-00B8FC.svg?style=for-the-badge&logo=Logitech&logoColor=white)
+![](https://img.shields.io/badge/Huawei-FF0000.svg?style=for-the-badge&logo=Huawei&logoColor=white)
+![](https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white)
+![](https://img.shields.io/badge/Western%20Digital-000000.svg?style=for-the-badge&logo=Western-Digital&logoColor=white)
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

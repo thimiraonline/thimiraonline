@@ -28,7 +28,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thimiraonline?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-&nbsp;
+<br/>
 
 ## ⚡ Technologies
 
@@ -81,7 +81,7 @@
 ![](https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white)
 ![](https://img.shields.io/badge/Western%20Digital-000000.svg?style=for-the-badge&logo=Western-Digital&logoColor=white)
 
-&nbsp;
+<br/>
 
 ### Projects and Dev Stuffs:
 

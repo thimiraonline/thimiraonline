@@ -28,6 +28,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thimiraonline?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+&nbsp;
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -78,6 +80,8 @@
 ![](https://img.shields.io/badge/Huawei-FF0000.svg?style=for-the-badge&logo=Huawei&logoColor=white)
 ![](https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white)
 ![](https://img.shields.io/badge/Western%20Digital-000000.svg?style=for-the-badge&logo=Western-Digital&logoColor=white)
+
+&nbsp;
 
 ### Projects and Dev Stuffs:
 

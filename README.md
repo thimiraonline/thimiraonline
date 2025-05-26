@@ -104,8 +104,8 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
-	    <li><b>Laptop: </b> MacBook Pro M1</li>
+  	    <li><b>OS:</b> MacOS 15 Sequoia</li>
+	    <li><b>Laptop: </b> MacBook Pro M4 Pro</li>
   	    <li><b>Browser: </b> Chrome & Safari</li>
 	    <li><b>Terminal: </b> ZSH: pwsh</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
